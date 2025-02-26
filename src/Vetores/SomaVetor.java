@@ -1,4 +1,4 @@
-package VetoresSoma;
+package Vetores;
 
 public class SomaVetor {
     public static void main(String[] args){
